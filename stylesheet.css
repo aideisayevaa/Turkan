@@ -1308,3 +1308,9 @@ audio {
     		-webkit-transform: scale(0.9);
     	}
     }*/
+
+
+
+	.navbar-fixed-bottom{
+		bottom: 50%;
+	}
